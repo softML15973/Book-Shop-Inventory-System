@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\Books Shop Inventory\Source.cpp(202,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Books Shop Inventory\Source.cpp(329,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\PC\source\repos\Books Shop Inventory\Source.cpp(359,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Books Shop Inventory.vcxproj -> C:\Users\PC\source\repos\Books Shop Inventory\x64\Debug\Books Shop Inventory.exe
